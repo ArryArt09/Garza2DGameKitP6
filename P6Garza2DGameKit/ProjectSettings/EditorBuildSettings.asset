@@ -33,6 +33,6 @@ EditorBuildSettings:
     path: Assets/NewScene.unity
     guid: a341347ecfade124f817cac8ea56a209
   - enabled: 1
-    path: Assets/Cinema.unity
+    path: Assets/Scenes/Cinema.unity
     guid: 8f63abe973819244693ad85a9abe2f45
   m_configObjects: {}
